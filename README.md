@@ -25,6 +25,9 @@ This project was created to practice building an interactive user interface and 
 - **JavaScript** — Calculator functionality
 - **Bootstrap 5.3.8** — UI utilities and responsive styling
 
+## Live Preview 
+[Preview](https://effortless-croissant-a60a87.netlify.app/)
+
 ## 📂 Project Structure
 
 ```text
@@ -34,3 +37,5 @@ Game-Zone/
 ├── index.js
 ├── style.css
 └── README.md
+
+
